@@ -1,5 +1,6 @@
 # deltacap
-Delta Cap Assign
+####
+Please note that the default branch is master and not main
 
 
 ## How do the tasks depend on one another?
@@ -10,3 +11,4 @@ Delta Cap Assign
 
 ## What happens if a task fails or succeeds?
 ### In a case of success or failure of task, the next task is looked for in the success or failure key. The next task is executed accordingly. For instance, if the outcome is success and "task2" is to be executed on success, then that task is executed.
+
